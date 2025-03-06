@@ -1,16 +1,26 @@
-## Hi there 👋
+markdown
+# Hola, soy Antonio Jorge 👋
 
-<!--
-**AntnonioJorge/AntnonioJorge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un estudiante de cuarto año de informática apasionado por la programación web.
 
-Here are some ideas to get you started:
+## Habilidades
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   C++
+*   Java
+*   PHP
+*   JavaScript
+
+## Proyectos destacados
+
+*   Chat encriptado
+*   App web
+*   App Spring Boot de gestión de microservicios
+*   App web de sistema solar con Spring Boot y Angular
+
+## Contacto
+
+Puedes contactarme a través de:
+* Teléfono: 222369360
+* Gmail: antoniojorge.ayong@gmail.com
+
+
