@@ -9,11 +9,12 @@ Soy un estudiante de cuarto año de informática apasionado por la programacio
 *   Java
 *   PHP
 *   JavaScript
+*   HTML
 
 ## Proyectos destacados
 
 *   Chat encriptado
-*   App web
+*   App web de Gestion de Empleados
 *   App Spring Boot de gestión de microservicios
 *   App web de sistema solar con Spring Boot y Angular
 
